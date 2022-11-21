@@ -1,0 +1,6 @@
+{
+    "databaseURL": "https://Kevin-Sch-ler-s-workspace-lme1d9.us-east-1.xata.sh/db/feedback",
+    "codegen": {
+        "output": "api/xata.ts"
+    }
+}
